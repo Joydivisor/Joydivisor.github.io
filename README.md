@@ -14,6 +14,14 @@
 - **[查看项目与 README](https://github.com/Joydivisor/europa-chronica)**
 - 开源许可：**GPL-3.0-only**；第三方数据与字体保留各自许可。
 
+### Folio · 本地文献学习台
+
+将文献阅读、批注、可追溯笔记与交互式 AI 解释放在同一工作区。支持 PDF、DOCX、TXT 和 Markdown、本地 OCR，以及 Windows、macOS 和 Linux。文献与笔记保存在本机，AI 使用自己选择的模型服务与 API Key。
+
+- **[访问官网与下载](https://getfolio.pages.dev/?lang=zh)**
+- **[查看项目与 README](https://github.com/Joydivisor/Folio)**
+- 开源许可：**GPL-3.0-only**；第三方组件保留各自许可。
+
 ## 本地运行
 
 ```sh
@@ -29,7 +37,7 @@ python3 -m http.server 8000
 - `index.html`：页面结构、项目链接与搜索引擎元信息。
 - `style.css`：配色、圆角控件、响应式布局与减少动态效果适配。
 - `app.js`：三语文本、语言偏好和键盘切换。
-- `assets/`：本地字体、图标与项目地图预览。
+- `assets/`：本地字体、图标、项目地图预览与 Folio 界面截图。
 
 推送到 `main` 后，GitHub Actions 自动将页面发布到 GitHub Pages。**Settings → Pages → Source** 使用 **GitHub Actions**。
 

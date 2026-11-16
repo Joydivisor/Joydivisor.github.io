@@ -8,24 +8,30 @@
       headline1:'把好奇心，',headline2:'写成作品。',intro:'这里收录我的开源项目。欢迎打开、探索，也欢迎一起把它们做得更好。',viewWork:'看看我的作品',selectedWork:'精选作品',
       openAtlas:'打开欧陆纪年地图',mapAlt:'公元1200年的欧洲历史地图，展示各政权、城市、河流与海域',mapCaption:'一张地图，穿越两千余年',
       projectType:'交互历史舆图',projectTitle:'欧陆纪年',projectDescription:'拖动时间，展开欧洲的历史疆域。走进一座城，读懂一段往事，或沿着历史人物的足迹远行。',timespan:'公元前 500 — 2024 年',languages:'简中 · 繁中 · English',explore:'打开地图',source:'查看源码',projectNote:'历史条目附来源 · 地图与内容皆可探索',
+      openFolio:'访问 Folio 官网',folioAlt:'Folio 阅读工作区：左侧为文献，右侧为旋转与置换的解释和交互式立方体',folioCaption:'从原文，到自己的理解',
+      folioType:'本地文献学习台',folioDescription:'把文献、批注与笔记放在同一张学习台上。选中原文，边读边问，用交互图示理解难点，再把答案留成可追溯的笔记。',folioLocal:'本地优先',folioExplore:'了解与下载',folioNote:'文献与笔记存于本机 · AI 模型由你选择',
       aboutText:'这里集中展示我的项目与开源代码。最新源码、更新记录与讨论，都可以在 GitHub 找到。',visitGithub:'在 GitHub 上找到我',siteSource:'主页源码',backTop:'回到顶部',
-      description:'Joydivisor 的个人作品主页。探索欧陆纪年 Europa Chronica，一幅跨越古典时代至现代的开源欧洲历史交互地图。'
+      description:'Joydivisor 的个人作品主页。探索欧陆纪年 Europa Chronica 历史交互地图，以及集文献阅读、笔记与交互式 AI 解释于一体的 Folio。'
     },
     'zh-TW': {
       title:'Joydivisor · 個人作品',skip:'跳轉到作品',nav:'主導覽',work:'作品',about:'關於',language:'選擇語言',
       headline1:'把好奇心，',headline2:'寫成作品。',intro:'這裡收錄我的開源專案。歡迎打開、探索，也歡迎一起把它們做得更好。',viewWork:'看看我的作品',selectedWork:'精選作品',
       openAtlas:'打開歐陸紀年地圖',mapAlt:'公元1200年的歐洲歷史地圖，展示各政權、城市、河流與海域',mapCaption:'一張地圖，穿越兩千餘年',
       projectType:'互動歷史輿圖',projectTitle:'歐陸紀年',projectDescription:'拖動時間，展開歐洲的歷史疆域。走進一座城，讀懂一段往事，或沿著歷史人物的足跡遠行。',timespan:'公元前 500 — 2024 年',languages:'簡中 · 繁中 · English',explore:'打開地圖',source:'查看原始碼',projectNote:'歷史條目附來源 · 地圖與內容皆可探索',
+      openFolio:'造訪 Folio 官網',folioAlt:'Folio 閱讀工作區：左側為文獻，右側為旋轉與置換的解釋和互動式立方體',folioCaption:'從原文，到自己的理解',
+      folioType:'本機文獻學習台',folioDescription:'把文獻、註記與筆記放在同一張學習台上。選取原文，邊讀邊問，用互動圖示理解難點，再把答案留成可追溯的筆記。',folioLocal:'本機優先',folioExplore:'了解與下載',folioNote:'文獻與筆記存於本機 · AI 模型由你選擇',
       aboutText:'這裡集中展示我的專案與開源程式碼。最新原始碼、更新紀錄與討論，都可以在 GitHub 找到。',visitGithub:'在 GitHub 上找到我',siteSource:'主頁原始碼',backTop:'回到頂部',
-      description:'Joydivisor 的個人作品主頁。探索歐陸紀年 Europa Chronica，一幅跨越古典時代至現代的開源歐洲歷史互動地圖。'
+      description:'Joydivisor 的個人作品主頁。探索歐陸紀年 Europa Chronica 歷史互動地圖，以及集文獻閱讀、筆記與互動式 AI 解釋於一體的 Folio。'
     },
     en: {
       title:'Joydivisor · Personal Works',skip:'Skip to projects',nav:'Main navigation',work:'Work',about:'About',language:'Choose language',
       headline1:'A little curiosity.',headline2:'A world to make.',intro:'A collection of my open-source projects. Take a look around, explore, and help them grow.',viewWork:'Explore my work',selectedWork:'Selected work',
       openAtlas:'Open Europa Chronica',mapAlt:'A historical map of Europe in 1200 showing political territories, cities, rivers and seas',mapCaption:'One map. More than two millennia.',
       projectType:'INTERACTIVE HISTORICAL ATLAS',projectTitle:'Europa Chronica',projectDescription:'Move through time and explore the changing territories of Europe. Step into a city, uncover its stories, or follow the journeys of historical figures.',timespan:'500 BCE — 2024 CE',languages:'简中 · 繁中 · English',explore:'Explore the atlas',source:'View source',projectNote:'Sourced histories · An atlas made for exploration',
+      openFolio:'Visit the Folio website',folioAlt:'Folio reading workspace with a document on the left and an explanation of rotations and permutations with an interactive cube on the right',folioCaption:'From a passage to understanding.',
+      folioType:'LOCAL-FIRST READING WORKSPACE',folioDescription:'Read papers, annotate passages and keep your notes together. Select a passage, ask a question, explore an interactive explanation, and save what you learn with a link back to the source.',folioLocal:'Local-first',folioExplore:'Explore & download',folioNote:'Documents and notes on your device · Your choice of AI model',
       aboutText:'This is a home for my projects and open-source work. Find the latest code, updates and conversations on GitHub.',visitGithub:'Find me on GitHub',siteSource:'Site source',backTop:'Back to top',
-      description:'The personal portfolio of Joydivisor. Explore Europa Chronica, an open-source interactive historical atlas of Europe from antiquity to modern times.'
+      description:'The personal portfolio of Joydivisor. Explore Europa Chronica, an interactive historical atlas, and Folio, a local-first workspace for reading, notes and interactive AI explanations.'
     }
   };
   function setLanguage(locale, persist = true) {
@@ -42,6 +48,7 @@
     document.querySelectorAll('[data-lang]').forEach(el => { el.setAttribute('aria-pressed', String(el.dataset.lang === locale)); });
     document.querySelector('.language-switch').style.setProperty('--language', languages.indexOf(locale));
     document.querySelectorAll('[data-atlas]').forEach(el => { el.href = `/europa-chronica/?lang=${locale}`; });
+    document.querySelectorAll('[data-folio]').forEach(el => { el.href = `https://getfolio.pages.dev/?lang=${locale === 'en' ? 'en' : 'zh'}`; });
     if (persist) {
       try { localStorage.setItem('joydivisor-language', locale); } catch {}
       const url = new URL(location.href); url.searchParams.set('lang', locale); history.replaceState(null, '', url);

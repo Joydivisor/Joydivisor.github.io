@@ -1,4 +1,5 @@
 /* SPDX-License-Identifier: GPL-3.0-only */
+.project-card + .project-card{margin-top:26px}.map-link.folio-link{background:#e8ebe4}.map-link.folio-link img{object-fit:contain;object-position:center;filter:none}
 @font-face{font-family:Cormorant;src:url('assets/cormorant.ttf') format('truetype');font-display:swap;font-weight:300 700}
 @font-face{font-family:Cinzel;src:url('assets/cinzel.ttf') format('truetype');font-display:swap;font-weight:400 900}
 :root{color-scheme:light;--paper:#f5f3ec;--ink:#303c32;--muted:#7a8174;--green:#59664e;--gold:#a38b61;--line:#dcded2;--serif:'Noto Serif SC','Source Han Serif SC','Songti SC',STSong,serif;--sans:-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',sans-serif}
